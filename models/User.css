@@ -23,4 +23,14 @@
     font-size: 14px;
     color: #666;
     line-height: 1.5;
+<<<<<<< HEAD
+=======
+}
+
+#email {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin: 5px 0;
+    border-radius: 4px;
+>>>>>>> V5
 }
